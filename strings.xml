@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline AI</string>
+    <string name="hint_message">Ask me anything...</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_voice">Voice input</string>
+</resources>
